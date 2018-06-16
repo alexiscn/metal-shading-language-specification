@@ -13,3 +13,5 @@
  [第六章 编译器和预处理器](ch06.md)
 
  [第六章 数值合规](ch07.md)
+
+ [Metal Shading Language Specification](https://developer.apple.com/metal/Metal-Shading-Language-Specification.pdf)
